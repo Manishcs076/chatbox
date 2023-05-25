@@ -1,6 +1,6 @@
 # chat_box
 
-This is a flutter based chat application which will reduce the dependency of India from Whatsapp.
+This is a flutter based chat application which will reduce  India's dependency from Whatsapp.
 
 ## Getting Started
 
